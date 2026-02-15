@@ -1,3 +1,4 @@
-title: "Your Name"
-description: "Developer & maker"
-theme: jekyll-theme-minimal
+title: "B.J. Blaker"
+description: "Developer & Maker"
+# theme: jekyll-theme-minimal # Removed to use custom layout
+url: "https://bjblakerpy.github.io"
