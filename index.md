@@ -2,6 +2,7 @@
 layout: default
 title: Home
 ---
+#B.J. Blaker
 
 I build tools, games, and hardware projects.
 
