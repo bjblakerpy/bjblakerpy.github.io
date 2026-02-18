@@ -47,5 +47,5 @@ title: Home
 <section id="contact" class="container" style="margin-top: 100px; text-align: center;">
     <h2 style="font-size: 2rem; margin-bottom: 20px;">Get In Touch</h2>
     <p style="color: #94a3b8; margin-bottom: 30px;">Interested in collaborating or just want to say hi? Feel free to reach out!</p>
-    <a href="mailto:your.email@example.com" class="cta-button">Contact Me</a>
+    <a href="mailto:bj.blaker@gmail.com" class="cta-button">Contact Me</a>
 </section>
