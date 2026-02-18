@@ -36,9 +36,6 @@ title: Home
          <article class="project-card">
             <h3>Coming Soon</h3>
             <p>More exciting projects are in the works. Stay tuned for updates on new software and hardware builds.</p>
-            <div class="links">
-                <a href="#">Learn More &rarr;</a>
-            </div>
         </article>
 
     </div>
@@ -47,5 +44,8 @@ title: Home
 <section id="contact" class="container" style="margin-top: 100px; text-align: center;">
     <h2 style="font-size: 2rem; margin-bottom: 20px;">Get In Touch</h2>
     <p style="color: #94a3b8; margin-bottom: 30px;">Interested in collaborating or just want to say hi? Feel free to reach out!</p>
-    <a href="mailto:bj.blaker@gmail.com" class="cta-button">Contact Me</a>
+    <div style="display: flex; gap: 16px; justify-content: center; margin-top: 20px;">
+        <a href="mailto:bj.blaker@gmail.com" class="cta-button">Contact Me</a>
+        <a href="https://linkedin.bjblaker.com" class="cta-button" target="_blank" style="background-color: transparent; border: 1px solid var(--text-primary); color: var(--text-primary);">LinkedIn</a>
+    </div>
 </section>
