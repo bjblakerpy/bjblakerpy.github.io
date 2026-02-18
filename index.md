@@ -46,6 +46,6 @@ title: Home
     <p style="color: #94a3b8; margin-bottom: 30px;">Interested in collaborating or just want to say hi? Feel free to reach out!</p>
     <div style="display: flex; gap: 16px; justify-content: center; margin-top: 20px;">
         <a href="mailto:bj.blaker@gmail.com" class="cta-button">Contact Me</a>
-        <a href="https://linkedin.bjblaker.com" class="cta-button" target="_blank" style="background-color: transparent; border: 1px solid var(--text-primary); color: var(--text-primary);">LinkedIn</a>
+        <a href="https://www.linkedin.com/in/bjblaker/" class="cta-button" target="_blank" style="background-color: transparent; border: 1px solid var(--text-primary); color: var(--text-primary);">LinkedIn</a>
     </div>
 </section>
