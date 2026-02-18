@@ -22,6 +22,15 @@ title: Home
             </div>
         </article>
         
+        <!-- Project 2 -->
+        <article class="project-card">
+            <h3>YouTube to Notion</h3>
+            <p>A Google Cloud Run service that turns YouTube videos into detailed Notion how-to guides using Gemini AI and Supadata.</p>
+            <div class="links">
+                <a href="https://github.com/bjblakerpy/youtube-to-notion-howto" target="_blank">View on GitHub &rarr;</a>
+            </div>
+        </article>
+        
         <!-- Add more projects here as needed -->
         <!-- Example Placeholder -->
          <article class="project-card">
