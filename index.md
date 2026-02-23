@@ -31,6 +31,15 @@ title: Home
             </div>
         </article>
         
+        <!-- Project 3 -->
+        <article class="project-card">
+            <h3>Windows Scripts</h3>
+            <p>A collection of PowerShell scripts for Windows 11 maintenance, cleanup, and automated updates.</p>
+            <div class="links">
+                <a href="https://github.com/bjblakerpy/windows-scripts" target="_blank">View on GitHub &rarr;</a>
+            </div>
+        </article>
+        
         <!-- Add more projects here as needed -->
         <!-- Example Placeholder -->
          <article class="project-card">
