@@ -6,7 +6,7 @@ title: Home
 <section class="hero">
     <h1>Hello, I'm B.J. Blaker</h1>
     <p>I build robust tools, interactive games, and innovative hardware projects.</p>
-    <a href="#projects" class="cta-button">View My Work</a>
+    <a href="https://github.com/bjblakerpy?tab=repositories" class="cta-button" target="_blank">View My Work</a>
 </section>
 
 <section id="projects" class="container">
