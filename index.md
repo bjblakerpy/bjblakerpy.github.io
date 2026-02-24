@@ -40,6 +40,15 @@ title: Home
             </div>
         </article>
         
+        <!-- Project 4 -->
+        <article class="project-card">
+            <h3>MacOS Scripts</h3>
+            <p>A collection of utility scripts for MacOS, including Homebrew updates and automated application installation.</p>
+            <div class="links">
+                <a href="https://github.com/bjblakerpy/macos-scripts" target="_blank">View on GitHub &rarr;</a>
+            </div>
+        </article>
+        
         <!-- Add more projects here as needed -->
         <!-- Example Placeholder -->
          <article class="project-card">
