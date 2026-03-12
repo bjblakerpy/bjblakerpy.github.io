@@ -49,12 +49,16 @@ title: Home
             </div>
         </article>
         
-        <!-- Add more projects here as needed -->
-        <!-- Example Placeholder -->
-         <article class="project-card">
-            <h3>Coming Soon</h3>
-            <p>More exciting projects are in the works. Stay tuned for updates on new software and hardware builds.</p>
+        <!-- Project 5 -->
+        <article class="project-card">
+            <h3>Repo Security Scanner</h3>
+            <p>A Python-powered agent that scans your repositories for a wide range of vulnerabilities, helping keep your codebase secure.</p>
+            <div class="links">
+                <a href="https://github.com/bjblakerpy/repo-security-scanner" target="_blank">View on GitHub &rarr;</a>
+            </div>
         </article>
+
+        <!-- Add more projects here as needed -->
 
     </div>
 </section>
